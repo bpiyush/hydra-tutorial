@@ -1,3 +1,5 @@
-depth: 50
-in_channels: 3
-num_classes: 1000
+name: ResNet3D
+args:
+  depth: 50
+  in_channels: 3
+  num_classes: 1000

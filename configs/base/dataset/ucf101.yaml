@@ -1,2 +1,4 @@
-root: /ssd/pbagad/datasets/ucf101/
-split_file: ucf101_split.txt
+name: UCF101
+args:
+  root: /ssd/pbagad/datasets/ucf101/
+  split_file: ucf101_split.txt
