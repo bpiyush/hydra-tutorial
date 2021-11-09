@@ -1,0 +1,14 @@
+defaults:
+  - _self_
+  - dataset: ucf101
+  - model: resnet
+  - optimizer: adam
+
+
+dataset:
+  root: /ssd/pbagad/datasets/xyz/
+  split_file: xyz_split.txt
+
+num_workers: 10
+num_epochs: 100
+batch_size: 32

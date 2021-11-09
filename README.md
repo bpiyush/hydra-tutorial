@@ -7,5 +7,5 @@ Basic tutorial (template) for using hydra configs for ML projects
 conda create -n hydra
 conda activate hydra
 conda install python=3.9
-pip install hydra-core hydra_colorlog
+pip install hydra-core hydra_colorlog ipdb
 ```

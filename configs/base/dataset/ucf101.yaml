@@ -1,0 +1,2 @@
+root: /ssd/pbagad/datasets/ucf101/
+split_file: ucf101_split.txt
